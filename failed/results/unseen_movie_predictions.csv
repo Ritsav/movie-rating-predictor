@@ -1,0 +1,4 @@
+names,imdb_rating_reference,LinearRegression,Ridge,RandomForestRegressor,HistGradientBoostingRegressor
+Dune: Part Two,8.4,61.93,61.89,71.64,68.84
+Inside Out 2,7.5,76.77,76.73,70.82,80.53
+The Wild Robot,8.1,64.58,64.59,62.8,65.72
